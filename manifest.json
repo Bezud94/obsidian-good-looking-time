@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-good-looking-time",
+	"name": "Good Looking Time",
+	"version": "0.0.0",
 	"minAppVersion": "1.0.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "단순화된 시간 표시를 예쁘게 보여줍니다.",
+	"author": "Bezud",
+	"authorUrl": "https://github.com/Bezud94",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
